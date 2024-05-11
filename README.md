@@ -31,7 +31,7 @@ print("Total no of words in file is",wordcount)
 fp.close()
 ```
 ### OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
